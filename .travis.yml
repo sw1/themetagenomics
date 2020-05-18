@@ -28,12 +28,9 @@ r_binary_packages:
 
 r_packages:
  - assertthat
-# - covr
+ - covr
  - quanteda
  - testthat
-
-r_github_packages:
- - r-lib/covr
 
 env:
   global:
